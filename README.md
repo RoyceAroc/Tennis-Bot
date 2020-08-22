@@ -1,3 +1,3 @@
 # Tennis-Bot
 VBS Script Bot for Reserving Court Automatically on RMC using Windows
-![RMC Dashboard](https://roydero.com/images/Dashboard.PNG)
+![RMC Dashboard](https://roydero.com/images/dashboard.PNG)
