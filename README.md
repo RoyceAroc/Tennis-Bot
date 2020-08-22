@@ -1,11 +1,10 @@
 ---
 Language: VBScript
-Time:
-  - 20 minutes
+Time: 20 minutes
+Description: VBS Script Bot for Reserving Court Automatically on RMC using Windows
 
 ---
-# Tennis-Bot
-VBS Script Bot for Reserving Court Automatically on RMC using Windows
+# Bot RMC Link
 ![RMC Dashboard](https://roydero.com/images/dashboard.PNG)
 
 ### Guidelines
